@@ -1,0 +1,170 @@
+{
+   "ALT CAMP": {
+      "latitude": 41.33994583,
+      "longitude": 1.291002778
+   },
+   "ALT EMPORDA": {
+      "latitude": 42.29127639,
+      "longitude": 2.938481944
+   },
+   "ALT PENEDES": {
+      "latitude": 41.36978472,
+      "longitude": 1.686505556
+   },
+   "ALT URGELL": {
+      "latitude": 42.24199722,
+      "longitude": 1.410270833
+   },
+   "ALTA RIBAGORCA": {
+      "latitude": 42.46652083,
+      "longitude": 0.8330611111
+   },
+   "ANOIA": {
+      "latitude": 41.6163875,
+      "longitude": 1.609526389
+   },
+   "VAL D'ARAN": {
+      "latitude": 42.72640417,
+      "longitude": 0.8398819444
+   },
+   "BAGES": {
+      "latitude": 41.778,
+      "longitude": 1.5324
+   },
+   "BAIX CAMP": {
+      "latitude": 41.14508194,
+      "longitude": 0.9847791667
+   },
+   "BAIX EBRE": {
+      "latitude": 40.85574583,
+      "longitude": 0.5589
+   },
+   "BAIX EMPORDA": {
+      "latitude": 41.94708194,
+      "longitude": 3.061220833
+   },
+   "BAIX LLOBREGAT": {
+      "latitude": 41.43442778,
+      "longitude": 1.972379167
+   },
+   "BAIX PENEDES": {
+      "latitude": 41.28034028,
+      "longitude": 1.521943056
+   },
+   "BARCELONES": {
+      "latitude": 41.40720694,
+      "longitude": 2.162281944
+   },
+   "BERGUEDA": {
+      "latitude": 42.11179167,
+      "longitude": 1.841858333
+   },
+   "CERDANYA": {
+      "latitude": 42.3932,
+      "longitude": 1.799555556
+   },
+   "CONCA DE BARBERA": {
+      "latitude": 41.44515556,
+      "longitude": 1.192090278
+   },
+   "GARRAF": {
+      "latitude": 41.26192222,
+      "longitude": 1.792958333
+   },
+   "GARRIGUES": {
+      "latitude": 41.4413,
+      "longitude": 0.8291986111
+   },
+   "GARROTXA": {
+      "latitude": 42.17475139,
+      "longitude": 2.557686111
+   },
+   "GIRONES": {
+      "latitude": 41.93864306,
+      "longitude": 2.810325
+   },
+   "MARESME": {
+      "latitude": 41.60352361,
+      "longitude": 2.513390278
+   },
+   "MOIANES": {
+      "latitude": 41.8253205,
+      "longitude": 2.085951
+   },
+   "MONTSIA": {
+      "latitude": 40.65410833,
+      "longitude": 0.5221611111
+   },
+   "NOGUERA": {
+      "latitude": 41.9055125,
+      "longitude": 0.938925
+   },
+   "OSONA": {
+      "latitude": 41.9498277,
+      "longitude": 1.6554938
+   },
+   "PALLARS JUSSA": {
+      "latitude": 42.28162778,
+      "longitude": 0.9339541667
+   },
+   "PALLARS SOBIRA": {
+      "latitude": 42.525075,
+      "longitude": 1.191872222
+   },
+   "PLA D'URGELL": {
+      "latitude": 41.64650694,
+      "longitude": 0.9157652778
+   },
+   "PLA DE L'ESTANY": {
+      "latitude": 42.12328056,
+      "longitude": 2.771797222
+   },
+   "PRIORAT": {
+      "latitude": 41.21534167,
+      "longitude": 0.8191930556
+   },
+   "RIBERA D'EBRE": {
+      "latitude": 41.13473194,
+      "longitude": 0.6209263889
+   },
+   "RIPOLLES": {
+      "latitude": 42.27424444,
+      "longitude": 2.258684722
+   },
+   "SEGARRA": {
+      "latitude": 41.74300417,
+      "longitude": 1.336676389
+   },
+   "SEGRIA": {
+      "latitude": 41.56527639,
+      "longitude": 0.5695388889
+   },
+   "SELVA": {
+      "latitude": 41.855675,
+      "longitude": 2.689922222
+   },
+   "SOLSONES": {
+      "latitude": 41.98264861,
+      "longitude": 1.516018056
+   },
+   "TARRAGONES": {
+      "latitude": 41.15572778,
+      "longitude": 1.296204167
+   },
+   "TERRA ALTA": {
+      "latitude": 41.02825972,
+      "longitude": 0.3873902778
+   },
+   "URGELL": {
+      "latitude": 41.66464028,
+      "longitude": 1.087547222
+   },
+   "VALLES OCCIDENTAL": {
+      "latitude": 41.56757361,
+      "longitude": 2.044123611
+   },
+   "VALLES ORIENTAL": {
+      "latitude": 41.6481842,
+      "longitude": 1.9824396
+   }
+}
