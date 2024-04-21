@@ -1,11 +1,13 @@
+# EnerQuiz
+
 Joc de trivia sobre el consum d'energia a Catalunya.
 
 Dades obtingudes del servei de Dades Obertes de la Generalitat.
 
 Veure la memòria per a més informació sobre el projecte.
 
-Tecnologies emprades
------
+# Tecnologies emprades
+
 
 Frameworks:
 - React Native (frontend)
@@ -13,21 +15,21 @@ Frameworks:
 
 Base de dades MySQL
 
-Fet per:
------
-Imanol Caminal
+# Fet per:
 
-Maria Camps
+[Imanol Caminal](https://github.com/kuu02Real) 
 
-Arnau Domènech
+[Maria Camps](https://github.com/mcampsll)
 
-David Heras
+[Arnau Domènech](https://github.com/arna1d0me)
 
-Daniel Pombero
+[David Heras](https://github.com/David-Heras)
 
-Isaac Roma
+[Daniel Pombero](https://github.com/Daniips)
 
-Sheng Ye
+[Isaac Roma](https://github.com/isaacroma)
+
+[Sheng Ye](https://github.com/guionwind)
 
 
 -----
