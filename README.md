@@ -2,7 +2,7 @@
 
 Joc de trivia sobre el consum d'energia a Catalunya.
 
-Dades obtingudes del servei de Dades Obertes de la Generalitat.
+Dades obtingudes del servei de Dades Obertes de la Generalitat de Catalunya.
 
 Veure la memòria per a més informació sobre el projecte.
 
